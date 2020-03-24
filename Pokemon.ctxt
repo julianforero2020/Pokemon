@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment1.params=
+comment1.target=Pokemon()
+comment2.params=
+comment2.target=void\ mostrarPokemon()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getTipo()
+comment6.params=tipo
+comment6.target=void\ setTipo(java.lang.String)
+numComments=7
